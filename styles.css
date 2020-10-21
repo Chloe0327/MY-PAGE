@@ -1,0 +1,28 @@
+h1{
+    background-color:white;
+    color:darkblue;
+    Font-family: "Comic Sans";
+text-align:center;}
+body{
+    text-align:center;
+    background-color: orange;}
+h2{
+    background-color:white;
+    color:blue;
+    text-align:center;}
+h3{
+    color:lightblue;
+    background-color:darkblue;}
+    span{
+        color:lightyellow;
+        Font-family:"comic sans";}
+img{
+    padding:0px;
+    width:300px;
+    border:20px dotted green;
+    
+   
+    
+}
+        
+
